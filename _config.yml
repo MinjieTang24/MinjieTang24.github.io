@@ -24,19 +24,19 @@ author:
   avatar           : "profile.png"
   name             : "Minjie Tang"
   pronouns         : # example: "she/her"  
-  bio              : "123"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Postdoctoral Research Fellow"
+  location         : "France"
+  employer         : "EURECOM"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "tangm@eurecom.fr" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.fr/citations?user=-OrzAAgAAAAJ&hl=en&oi=ao"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-2039-1729"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development
