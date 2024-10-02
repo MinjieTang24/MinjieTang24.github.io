@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Minjie Tang/ Site Title"
+title                    : "Welcome!"
 title_separator          : "-"
 name                     : &name "Minjie Tang"
 description              : &description "personal description"
