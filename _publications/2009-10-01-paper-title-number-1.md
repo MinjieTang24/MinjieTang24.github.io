@@ -1,7 +1,7 @@
 ---
 title: "Remote State Estimation With Asynchronous Mission-Critical IoT Sensors"
 collection: publications
-category: remote-state-estimation
+category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 date: vol. 39, no. 3, 2023, pp. 835 - 850, 2021
 venue: 'IEEE Journal on Selected Areas in Communications'
