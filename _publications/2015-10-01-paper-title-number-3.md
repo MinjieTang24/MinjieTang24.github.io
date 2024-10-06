@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: 'https://ieeexplore.ieee.org/abstract/document/9998988'
 date: 2022-12-26
-venue: 'IEEE Transactions on Automatic Control (Full Paper), vol. 68, no. 10, pp. 6020-6035'
+venue: 'M. Tang, S. Cai, and V. K. Lau, IEEE Transactions on Automatic Control (Full Paper), vol. 68, no. 10, pp. 6020-6035'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9998988'
 ---
 
