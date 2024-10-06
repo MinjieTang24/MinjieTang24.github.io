@@ -1,7 +1,7 @@
 ---
 title: "Decentralized Event-Triggered Scheduling and Control for Multi-Agent Linear Systems over Wireless Interference Channels"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: 'https://ieeexplore.ieee.org/abstract/document/9720089'
 date: 2022-02-23
 venue: 'IEEE Transactions on Control of Network Systems (Full Paper), vol. 70, pp. 1348-1361'
