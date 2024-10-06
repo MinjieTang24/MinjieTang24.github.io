@@ -1,14 +1,11 @@
 ---
-title: "Paper Title Number 3"
+title: "Online System Identification and Control for Linear Systems With Multi-Agent Controllers Over Wireless Interference Channels"
 collection: publications
 category: manuscripts
-permalink: https://scholar.google.fr/citations?user=-OrzAAgAAAAJ&hl=zh-CN&oi=ao
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'https://scholar.google.fr/citations?user=-OrzAAgAAAAJ&hl=zh-CN&oi=ao'
-paperurl: 'https://scholar.google.fr/citations?user=-OrzAAgAAAAJ&hl=zh-CN&oi=ao'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: 'https://ieeexplore.ieee.org/abstract/document/9998988'
+date: 2022-12-26
+venue: 'IEEE Transactions on Automatic Control (Full Paper), vol. 68, no. 10, pp. 6020-6035'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/9998988'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
