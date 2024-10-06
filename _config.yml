@@ -78,9 +78,9 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Remote State Estimation'    
+    title: 'Journal Papers'    
   conferences:
-    title: 'Remote Control'
+    title: 'conference proceedings'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
