@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: 'https://ieeexplore.ieee.org/abstract/document/10239511'
 date: 2023-09-05
-venue: 'M. Tang, and V. K. Lau, IEEE Internet of Things Journal, vol. 68, no. 10, pp. 6730-6747'
+venue: 'IEEE Internet of Things Journal, vol. 68, no. 10, pp. 6730-6747'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10239511'
 ---
 
